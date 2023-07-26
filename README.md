@@ -2,10 +2,10 @@
 Details of this project can be found on the project report.
 
 ## Features:
-* **Digital clock**: A 24h format digital clock has been developed using timers and delays.
-* **Display**: Current time of the clock is shown on a LCD. Instructions for the user inputs are also displayed there.
-* **Alarm**: Users can set a time as alarm time and when the clock reaches that time theuser is notified by a buzzer or a lit up LED.
-* **User input**: Users can provide input of current time, alarm time, alarm snooze count and snooze interval (extra features) using the keypad. The system is designed to take all these inputs before starting the clock
+- **Digital clock**
+- **Display**
+- **Alarm**
+- **User input**
 - **Snooze Alarm**
 - **Input verification** 
 - **Alarm cancel**
